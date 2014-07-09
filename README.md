@@ -5,6 +5,7 @@ An expandable list view that displays one set of data collapsed, one set expande
 
 To use:
 The shortList parameter in the constructor of ExpandableCard will be displayed when it is collapsed
+
 The longList parameter in the constructor will be displayed when it is expanded
 
 To change the header, change list_group.xml and modify getGroupView. Currently it just sets a textView value, 
